@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal book library and travel agency<br>👯 I’m looking to collaborate on travel agency<br>🤝 I’m looking for help with back-end<br>🌱 I’m currently learning php<br>
+🔭 I’m currently working on Personal Quant System<br>👯 I’m looking to collaborate on Quant Architecture Trading<br>🤝 I’m looking for help with back-end<br>🌱 I’m currently learning TCN & C++<br>
 
 
 ## 🌐 Socials:
