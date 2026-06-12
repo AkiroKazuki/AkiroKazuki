@@ -166,34 +166,34 @@ Architecting and deploying machine learning models, establishing foundational kn
 
 ## 10. GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111111&title_color=7C3AED&icon_color=A78BFA" alt="GitHub Stats " />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkiroKazuki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111111&title_color=7C3AED&icon_color=A78BFA" alt="GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=111111&ring=7C3AED&fire=A78BFA&currStreakNum=ffffff" alt="GitHub Streak " />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkiroKazuki&theme=tokyonight&hide_border=true&background=111111&ring=7C3AED&fire=A78BFA&currStreakNum=ffffff" alt="GitHub Streak" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=111111&title_color=7C3AED" alt="Top Languages " />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiroKazuki&layout=compact&theme=tokyonight&hide_border=true&bg_color=111111&title_color=7C3AED" alt="Top Languages" />
 </div>
 
 ---
 
-## 11. GitHub Trophies 
+## 11. GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AkiroKazuki&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 12. Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&bg_color=111111&color=A78BFA&line=7C3AED&point=ffffff" width="100%" alt="Contribution Graph " />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkiroKazuki&theme=tokyo-night&bg_color=111111&color=A78BFA&line=7C3AED&point=ffffff" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 13. Contribution Snake 
+## 13. Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake " />
+  <img src="https://raw.githubusercontent.com/AkiroKazuki/AkiroKazuki/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 ---
